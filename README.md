@@ -1,1 +1,62 @@
 # backend-from-first-principles
+High-level system understanding (how requests are processed, client-server communication)
+
+HTTP protocol fundamentals (methods, headers, status codes, caching, differences between HTTP versions)
+
+Routing (mapping URLs, path/query params, route types, versioning, security, performance)
+
+Serialization/deserialization (text vs binary formats, JSON structure, error handling, validation, security concerns)
+
+Authentication & Authorization (methods: sessions, JWT, API keys, Oauth, security best practices)
+
+Validation & Transformation (data types, syntactic & semantic checks, best practices, transformations & sanitization)
+
+Middlewares (types, flow, common use cases: logging, security, error handling, performance)
+
+Request context (metadata, lifecycle, sharing state, best practices)
+
+Handlers, Controllers, Services (MVC pattern, centralized error handling)
+
+CRUD operations (mapping HTTP methods, pagination, search, filtering, best practices)
+
+RESTful architecture (API design, versioning, open API, error handling, caching)
+
+Databases (relational vs non-relational, ACID/CAP, schema design, indexing, migrations)
+
+Business Logic Layer (separation of concerns, service design, error handling)
+
+Caching strategies & layers (client/server, eviction, optimization)
+
+Transactional Emails (structure, personalization)
+
+Task Queuing & Scheduling (use cases, job dependencies, rate limiting, error handling)
+
+Elasticsearch (principles, indexing, searching, advanced patterns)
+
+Error Handling (types, strategies, best practices, logging, monitoring)
+
+Config Management (environments, secrets, feature flags, best practices)
+
+Logging, Monitoring, Observability (types, levels, tools, best practices)
+
+Graceful Shutdown (lifecycle, signal handling)
+
+Security (common threats, secure design principles)
+
+Scaling & Performance (database optimization, memory management, performance testing)
+
+Concurrency & Parallelism (I/O vs CPU bound tasks)
+
+Object Storage & Large Files (use cases, file management)
+
+Realtime Systems (WebSockets, Server Sent Events)
+
+Testing & Code Quality (types of testing, coverage, TDD, CI/CD)
+
+The 12 Factor App (cloud-ready best practices)
+
+OpenAPI Standards (documentation, spec-first approach)
+
+Webhooks (use cases, best practices)
+
+DevOps fundamentals for backend engineers (CI/CD, containers, deployment strategies)
