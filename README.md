@@ -1,3 +1,5 @@
+YT Playlist: https://www.youtube.com/playlist?list=PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1
+
 # backend-from-first-principles
 
 - High-level system understanding (how requests are processed, client-server communication)
